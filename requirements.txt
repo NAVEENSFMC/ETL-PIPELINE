@@ -1,0 +1,6 @@
+openpyxl
+fuzzywuzzy
+pandas
+python-Levenshtein
+sqlalchemy
+pyspark==3.4.1
